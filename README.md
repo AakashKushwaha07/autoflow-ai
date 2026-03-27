@@ -37,6 +37,17 @@ Agents:
 - Slack/Email automation
 - ML-based failure prediction
 
+## ⚙️ How to Run
+
+### Backend
+cd backend
+./mvnw.cmd spring-boot:run
+
+### Frontend
+cd frontend/autoflow-ui
+npm install
+npm run dev
+
 ---
 
 Built by Aakash Kumar 💻
